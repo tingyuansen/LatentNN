@@ -1,0 +1,15 @@
+# LatentNN Requirements
+# Python 3.8+
+
+# Core dependencies
+numpy>=1.20.0
+torch>=2.0.0
+scikit-learn>=1.0.0
+
+# For notebooks and visualization
+matplotlib>=3.5.0
+tqdm>=4.60.0
+
+# Optional: for parallel execution in examples
+joblib>=1.1.0
+
