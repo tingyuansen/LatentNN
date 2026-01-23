@@ -48,7 +48,7 @@ where $x_{\mathrm{latent}}$ are learnable parameters initialized at the observed
 
 For theoretical details, derivations, and extensive validation, see:
 
-> Ting, Y.-S. (2025). "Why Machine Learning Models Systematically Underestimate Extreme Values II: How to Fix It with LatentNN". arXiv:XXXX.XXXXX
+> Ting, Y.-S. (2025). "Why Machine Learning Models Systematically Underestimate Extreme Values II: How to Fix It with LatentNN". arXiv:2512.23138
 
 ## Installation
 
@@ -207,7 +207,7 @@ Pedagogical notebooks demonstrating the method:
     title = "{Why Machine Learning Models Systematically Underestimate Extreme Values II: How to Fix It with LatentNN}",
     journal = {arXiv e-prints},
     year = 2025,
-    eprint = {XXXX.XXXXX},
+    eprint = {2512.23138},
     archivePrefix = {arXiv},
     primaryClass = {astro-ph.IM}
 }
